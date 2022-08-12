@@ -34,7 +34,7 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-Created by [@VasundharaLK]
+## Created by [@VasundharaLK]
 For contact - vasundharalkadekodi@gmail.com 
 
 <!-- Optional -->
