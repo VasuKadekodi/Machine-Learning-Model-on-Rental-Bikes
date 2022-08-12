@@ -19,6 +19,7 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
 
 ## Conclusions
 - The R-squared value of the train set is 79.2% whereas the test set has a value of 75.81% which suggests that our model broadly explains the variance quite accurately on the test set and thus we can conclude that it is a good model.
+- The training and testing datasets which suggests that the variance is accurately predicted on the test set. The p-values and VIF were used to select the significant variables. RFE was also conducted for automated selection of variables.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
