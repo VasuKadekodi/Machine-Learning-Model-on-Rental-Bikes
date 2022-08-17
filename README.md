@@ -25,7 +25,8 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
   **cnt**= 0.199648 + (0.233482 * yr)-(0.098013 * holiday)+(0.491508 * temp)-(0.147977 * windspeed)-(0.066942 * spring)+(0.045280 * summer)+ (0.083084 * winter)
        -(0.285155 * light Rain)-(0.081558 * mist)-(0.052418 * jul)+(0.076686 * sep)
 - As per the final model, the top 3 predictor variables that influence bike booking are:
-      1)	Temperature (Temp): A coefficient value of ‘0.491508’ indicated that a temperature has significant impact on bike rentals
+
+      1) Temperature (Temp): A coefficient value of ‘0.491508’ indicated that a temperature has significant impact on bike rentals
       2)	Light Rain: A coefficient value of ‘-0.2852’ indicated that the light snow and rain deters people from renting out bikes
       3)	Year (yr): A coefficient value of ‘0.2335’ indicated that year wise the rental numbers are increasing
 
