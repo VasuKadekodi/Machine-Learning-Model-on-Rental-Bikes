@@ -6,6 +6,7 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Recommendations to improve the business](#recommendations-to-improve-the-business)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -30,6 +31,9 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
       2)	Light Rain: A coefficient value of ‘-0.2852’ indicated that the light snow and rain deters people from renting out bikes
       3)	Year (yr): A coefficient value of ‘0.2335’ indicated that year wise the rental numbers are increasing
 
+## Recommendations to improve the business
+-	It is recommended to give utmost importance to these three variables while planning to achieve maximum bike rental booking.
+-	As high temperature and good weather positively impacts bike rentals, it is recommended that bike availability and promotions to be increased during summer months to further increase bike rentals.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
