@@ -4,9 +4,9 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Recommendations to improve the business](#recommendations-to-improve-the-business)
+* [Technologies Used](#technologies-used)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
